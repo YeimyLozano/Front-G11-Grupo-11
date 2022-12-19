@@ -5,7 +5,7 @@ import swal from "sweetalert";
 
 class Usuarios extends Component {
     state = {
-        usuarios: []
+        usuarios: [] //Variable usuario 
     }
 
     componentWillMount() {
